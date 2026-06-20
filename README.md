@@ -5,7 +5,8 @@ Hobbyist
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
 <pre>
-▰▰▰▰▰ The System ▰▰▰▰▰
+The System
+▰▰▰▰▰
 Case: Lian Li A4-H2O
 └─ CPU: Ryzen 7 7700X
 └─ GPU: RTX 4060 8GB
@@ -15,14 +16,16 @@ Case: Lian Li A4-H2O
 └─ OS: Windows 11 Enterprise
 ▰
 
-▰▰▰▰▰ geofeed.csv ▰▰▰▰▰
+geofeed.csv
+▰▰▰▰▰
 [ timezone ] - EST / UTC-5
 └─ Midnight: 12:00 AM
 [ state ] - Pennsylvania
 [ country ] - US
 ▰
 
-▰▰▰▰▰ VR Setup ▰▰▰▰▰
+VR Setup
+▰▰▰▰▰
 HMD: Bigscreen Beyond 2e
 └─ Controllers: Valve Index Knuckles
 └─ Gloves: StretchSense XR
@@ -30,7 +33,8 @@ HMD: Bigscreen Beyond 2e
    └─ [ FBT: 8 ] [ Glove: 2 ] [ Camera: 1 ]
 ▰
 
-▰▰▰▰▰ Network ▰▰▰▰▰
+Network
+▰▰▰▰▰
 [ AS213124 ] - zylinktech.net
 └─ as-name: zylinktech-net
 └─ CEO & Network Administrator @ zylinktech.net
@@ -43,7 +47,8 @@ HMD: Bigscreen Beyond 2e
 └─ remarks: I had to change this so people don't think I'm a gay femboy furry
 ▰
 
-▰▰▰▰▰ Network Infrastructure ▰▰▰▰▰
+Network Infrastructure
+▰▰▰▰▰
 Switch: Cisco Meraki MS220-HW
 Switch: Cisco Catalyst 3750G
 
@@ -74,7 +79,8 @@ Router: VM
 └─ OS: OPNsense
 ▰
 
-▰▰▰▰▰ Contact & Socials ▰▰▰▰▰
+Contact & Socials
+▰▰▰▰▰
 Personal: <code>me@coderrquitsreality.dev</code>
 Corporate: <code>support@zylinktech.net</code>
 Store: https://www.jawa.gg/sp/188417/zylinktech
