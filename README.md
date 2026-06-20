@@ -3,7 +3,6 @@
 - I'm probably a furry. **I am most definitely a furry.**
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
-<!-- ==================== MEDIA DISPLAY START ==================== -->
 <div align="left">
   <div style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
     <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank" style="display: inline-block; background-image: url('images/your-preview-loop.gif'); background-size: cover; width: 600px; height: 337px; border-radius: 2px; overflow: hidden;">
@@ -11,8 +10,6 @@
     </a>
   </div>
 </div>
-<!-- ==================== MEDIA DISPLAY END ==================== -->
-
 <pre>
 LAB.FEED ● LIVE
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
@@ -94,7 +91,7 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/-%20-ea4335?style=flat-square&logo=fontawesome&logoColor=white" alt="Email" height="30" width="40" style="margin-right: 5px;" /></a>
+  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/-%20-ea4335?style=for-the-badge&logo=envelope&logoColor=white" alt="Email" height="30" width="40" style="margin-right: 5px;" /></a>
   <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
   <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
