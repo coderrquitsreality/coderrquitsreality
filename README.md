@@ -94,7 +94,8 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" style="margin-right: 5px;" /></a>
+  <!-- Font Awesome Envelope Icon with Custom Rounded Background Container -->
+  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/envelope.svg" alt="Email" height="18" width="22" style="margin-right: 14px; background: #ea4335; padding: 6px 9px; border-radius: 6px;" /></a>
   <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
   <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
