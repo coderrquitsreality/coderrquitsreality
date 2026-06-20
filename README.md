@@ -9,17 +9,21 @@
   <input type="radio" id="media2" name="media-carousel" style="display:none;">
   <input type="radio" id="media3" name="media-carousel" style="display:none;">
 
+  <div style="margin-bottom: 15px; font-family: monospace; font-size: 13px; letter-spacing: 1px;">
+    <label for="media1" style="cursor:pointer; color:#a855f7; margin-right:20px; user-select:none;">[ youtube video ]</label>
+    <label for="media2" style="cursor:pointer; color:#94a3b8; margin-right:20px; user-select:none;">[ uploaded image 1 ]</label>
+    <label for="media3" style="cursor:pointer; color:#94a3b8; user-select:none;">[ uploaded image 2 ]</label>
+  </div>
+
   <div class="carousel-panes" style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
     <div id="pane1" style="display:none;">
-      <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank">
-        <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="max-width:100%; border-radius:2px;">
+      <a href="https://www.youtube.com/c/coderrquitsreality_" target="_blank">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="max-width:100%; border-radius:2px;">
       </a>
     </div>
-
     <div id="pane2" style="display:none;">
       <img src="images/your-image-1.png" alt="Uploaded Content 1" width="600" style="max-width:100%; border-radius:2px;">
     </div>
-
     <div id="pane3" style="display:none;">
       <img src="images/your-image-2.png" alt="Uploaded Content 2" width="600" style="max-width:100%; border-radius:2px;">
     </div>
@@ -29,9 +33,6 @@
     #media1:checked ~ .carousel-panes #pane1 { display: block !important; }
     #media2:checked ~ .carousel-panes #pane2 { display: block !important; }
     #media3:checked ~ .carousel-panes #pane3 { display: block !important; }
-    #media1:checked ~ div label[for="media1"] { color: #fff !important; font-weight: bold; }
-    #media2:checked ~ div label[for="media2"] { color: #fff !important; font-weight: bold; }
-    #media3:checked ~ div label[for="media3"] { color: #fff !important; font-weight: bold; }
   </style>
 </div>
 <!-- ==================== MEDIA CAROUSEL END ==================== -->
@@ -69,7 +70,6 @@ Network
 ▰▰▰▰▰
 [ AS213124 ] - zylinktech.net
 └─ as-name: zylinktech-net
-└─ CEO & Network Administrator @ zylinktech.net
 
 [ AS207719 ] - coderrquitsreality.dev
 └─ as-name: coderrquitsreality
@@ -108,13 +108,12 @@ Router: VM
 └─ RAM: 8GB DDR4
 └─ Disk: 32GB
 └─ OS: OPNsense
-
-Contact & Socials
-▰▰▰▰▰
-Personal: <code>me@coderrquitsreality.dev</code>
 </pre>
 
+I exist at these places too :3
+▰▰▰▰▰
 <p align="left">
+<a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-me%40coderrquitsreality.dev-00ff00?style=flat&logo=gmail&logoColor=black" alt="Email" height="30" style="margin-right: 5px;" /></a>
 <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
