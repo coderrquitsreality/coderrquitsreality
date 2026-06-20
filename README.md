@@ -1,3 +1,10 @@
+To match the exact dimensions, alignment, and inline presentation layout of the profile generator's predefined social assets without causing line breaks or size distortions, we can use the exact raw Font Awesome SVG path embedded within a standard `svg` tag.
+
+By applying an inline CSS layout directly to the SVG element, we can color-match it precisely to your site's target red hex code (`#ea4335`) and set the bounding frame sizes to perfectly mirror your Twitter and YouTube icons.
+
+### `README.md`
+
+```markdown
 // hobbyist
 - I’m currently working on **a better VRChat camera system**
 - I'm probably a furry. **I am most definitely a furry.**
@@ -91,7 +98,11 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail-icon.svg" alt="Email" height="30" width="40" style="margin-right: 5px;" /></a>
+  <a href="mailto:me@coderrquitsreality.dev" target="_blank" style="text-decoration: none; display: inline-block; vertical-align: middle; margin-right: 5px;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="30" width="40" style="fill: #ea4335; background: #1f2937; padding: 4px; border-radius: 4px;">
+      <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+    </svg>
+  </a>
   <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
   <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
@@ -99,3 +110,5 @@ I exist at these places too :3
 <pre>
 [ EOF ]
 </pre>
+
+```
