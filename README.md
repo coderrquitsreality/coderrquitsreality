@@ -91,8 +91,8 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" style="margin-right: 10px; border-radius: 4px;" /></a>
-  <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 10px;" /></a>
+  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" style="margin-right: 5px;" /></a>
+  <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
   <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
 
