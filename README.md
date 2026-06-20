@@ -29,9 +29,6 @@
     #media1:checked ~ .carousel-panes #pane1 { display: block !important; }
     #media2:checked ~ .carousel-panes #pane2 { display: block !important; }
     #media3:checked ~ .carousel-panes #pane3 { display: block !important; }
-    #media1:checked ~ div label[for="media1"] { color: #fff !important; font-weight: bold; }
-    #media2:checked ~ div label[for="media2"] { color: #fff !important; font-weight: bold; }
-    #media3:checked ~ div label[for="media3"] { color: #fff !important; font-weight: bold; }
   </style>
 </div>
 <!-- ==================== MEDIA CAROUSEL END ==================== -->
