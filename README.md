@@ -4,31 +4,9 @@
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
 <div align="left">
-  <input type="radio" id="media1" name="media-carousel" checked style="display:none;">
-  <input type="radio" id="media2" name="media-carousel" style="display:none;">
-  <input type="radio" id="media3" name="media-carousel" style="display:none;">
-
-  <div class="carousel-panes" style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
-    <div id="pane1" style="display:none;">
-      <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank" style="display: inline-block; background-image: url('images/your-preview-loop.gif'); background-size: cover; width: 600px; height: 337px; border-radius: 2px;">
-        <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="display: block; border-radius:2px; transition: opacity 0.15s ease-in-out;" onmouseover="this.style.opacity=0;" onmouseout="this.style.opacity=1;">
-      </a>
-    </div>
-
-    <div id="pane2" style="display:none;">
-      <img src="images/your-image-1.png" alt="Uploaded Content 1" width="600" style="max-width:100%; border-radius:2px;">
-    </div>
-
-    <div id="pane3" style="display:none;">
-      <img src="images/your-image-2.png" alt="Uploaded Content 2" width="600" style="max-width:100%; border-radius:2px;">
-    </div>
-  </div>
-
-  <style>
-    #media1:checked ~ .carousel-panes #pane1 { display: block !important; }
-    #media2:checked ~ .carousel-panes #pane2 { display: block !important; }
-    #media3:checked ~ .carousel-panes #pane3 { display: block !important; }
-  </style>
+  <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank" style="display: inline-block; background-image: url('images/your-preview-loop.gif'); background-size: cover; width: 600px; height: 337px; border: 1px solid #27272a; border-radius: 4px; overflow: hidden;">
+    <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="display: block; transition: opacity 0.15s ease-in-out;" onmouseover="this.style.opacity=0;" onmouseout="this.style.opacity=1;">
+  </a>
 </div>
 <pre>
 LAB.FEED ● LIVE
@@ -63,6 +41,7 @@ Network
 ▰▰▰▰▰
 [ AS213124 ] - zylinktech.net
 └─ as-name: zylinktech-net
+└─ CEO & Network Administrator @ zylinktech.net
 
 [ AS207719 ] - coderrquitsreality.dev
 └─ as-name: coderrquitsreality
@@ -110,7 +89,7 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-<a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30" style="margin-right: 15px; filter: invert(47%) sepia(97%) saturate(2338%) hue-rotate(84deg) brightness(120%) contrast(121%);" /></a>
+<a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="35" style="margin-right: 10px; filter: invert(57%) sepia(81%) saturate(2304%) hue-rotate(83deg) brightness(115%) contrast(119%);" /></a>
 <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
 <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
