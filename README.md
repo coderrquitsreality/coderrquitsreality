@@ -3,7 +3,6 @@
 - I'm probably a furry. **I am most definitely a furry.**
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
-<!-- ==================== MEDIA CAROUSEL START ==================== -->
 <div align="left">
   <input type="radio" id="media1" name="media-carousel" checked style="display:none;">
   <input type="radio" id="media2" name="media-carousel" style="display:none;">
@@ -11,8 +10,8 @@
 
   <div class="carousel-panes" style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
     <div id="pane1" style="display:none;">
-      <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank">
-        <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="max-width:100%; border-radius:2px;">
+      <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank" style="display: inline-block; background-image: url('images/your-preview-loop.gif'); background-size: cover; width: 600px; height: 337px; border-radius: 2px;">
+        <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="display: block; border-radius:2px; transition: opacity 0.15s ease-in-out;" onmouseover="this.style.opacity=0;" onmouseout="this.style.opacity=1;">
       </a>
     </div>
 
@@ -31,8 +30,6 @@
     #media3:checked ~ .carousel-panes #pane3 { display: block !important; }
   </style>
 </div>
-<!-- ==================== MEDIA CAROUSEL END ==================== -->
-
 <pre>
 LAB.FEED ● LIVE
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
@@ -66,7 +63,6 @@ Network
 ▰▰▰▰▰
 [ AS213124 ] - zylinktech.net
 └─ as-name: zylinktech-net
-└─ CEO & Network Administrator @ zylinktech.net
 
 [ AS207719 ] - coderrquitsreality.dev
 └─ as-name: coderrquitsreality
@@ -114,7 +110,7 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-<a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" height="30" width="40" style="margin-right: 5px; border-radius: 4px;" /></a>
+<a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30" style="margin-right: 15px; filter: invert(47%) sepia(97%) saturate(2338%) hue-rotate(84deg) brightness(120%) contrast(121%);" /></a>
 <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
 <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
