@@ -1,10 +1,52 @@
-Hobbyist
-
+// hobbyist
 - I’m currently working on **a better VRChat camera system**
 - I'm probably a furry. **I am most definitely a furry.**
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
+<!-- ==================== MEDIA CAROUSEL START ==================== -->
+<div align="left">
+  <input type="radio" id="media1" name="media-carousel" checked style="display:none;">
+  <input type="radio" id="media2" name="media-carousel" style="display:none;">
+  <input type="radio" id="media3" name="media-carousel" style="display:none;">
+
+  <!-- Styled to copy your site navigation links -->
+  <div style="margin-bottom: 15px; font-family: monospace; font-size: 13px; letter-spacing: 1px;">
+    <label for="media1" style="cursor:pointer; color:#a855f7; margin-right:20px; user-select:none;">[ youtube video ]</label>
+    <label for="media2" style="cursor:pointer; color:#94a3b8; margin-right:20px; user-select:none;">[ uploaded image 1 ]</label>
+    <label for="media3" style="cursor:pointer; color:#94a3b8; user-select:none;">[ uploaded image 2 ]</label>
+  </div>
+
+  <div class="carousel-panes" style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
+    <div id="pane1" style="display:none;">
+      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="max-width:100%; border-radius:2px;">
+      </a>
+    </div>
+
+    <div id="pane2" style="display:none;">
+      <img src="images/your-image-1.png" alt="Uploaded Content 1" width="600" style="max-width:100%; border-radius:2px;">
+    </div>
+
+    <div id="pane3" style="display:none;">
+      <img src="images/your-image-2.png" alt="Uploaded Content 2" width="600" style="max-width:100%; border-radius:2px;">
+    </div>
+  </div>
+
+  <style>
+    #media1:checked ~ .carousel-panes #pane1 { display: block !important; }
+    #media2:checked ~ .carousel-panes #pane2 { display: block !important; }
+    #media3:checked ~ .carousel-panes #pane3 { display: block !important; }
+    #media1:checked ~ div label[for="media1"] { color: #fff !important; font-weight: bold; }
+    #media2:checked ~ div label[for="media2"] { color: #fff !important; font-weight: bold; }
+    #media3:checked ~ div label[for="media3"] { color: #fff !important; font-weight: bold; }
+  </style>
+</div>
+<!-- ==================== MEDIA CAROUSEL END ==================== -->
+
 <pre>
+LAB.FEED ● LIVE
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
 The System
 ▰▰▰▰▰
 Case: Lian Li A4-H2O
