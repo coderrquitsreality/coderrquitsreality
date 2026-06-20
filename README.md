@@ -3,20 +3,44 @@
 - I'm probably a furry. **I am most definitely a furry.**
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
-<details open>
-<summary style="cursor:pointer; font-family: monospace; font-size: 13px; letter-spacing: 1px; color:#a855f7;">[ click to toggle media feed ]</summary>
-<br>
-
+<!-- ==================== MEDIA CAROUSEL START ==================== -->
 <div align="left">
-  <!-- Hover Preview Target: Shows GIF on mouseover, falls back to YouTube static frame -->
-  <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank" style="display: inline-block; background-image: url('images/your-preview-loop.gif'); background-size: cover; width: 600px; height: 337px; border: 1px solid #27272a; border-radius: 4px;">
-    <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="display: block; border-radius: 2px; transition: opacity 0.15s ease-in-out;" onmouseover="this.style.opacity=0;" onmouseout="this.style.opacity=1;">
-  </a>
-  
-  <br><br>
-  <img src="images/your-image-1.png" alt="Uploaded Content 1" width="600" style="border: 1px solid #27272a; border-radius:4px;">
+  <input type="radio" id="media1" name="media-carousel" checked style="display:none;">
+  <input type="radio" id="media2" name="media-carousel" style="display:none;">
+  <input type="radio" id="media3" name="media-carousel" style="display:none;">
+
+  <div style="margin-bottom: 15px; font-family: monospace; font-size: 13px; letter-spacing: 1px;">
+    <label for="media1" style="cursor:pointer; color:#a855f7; margin-right:20px; user-select:none;">[ youtube video ]</label>
+    <label for="media2" style="cursor:pointer; color:#94a3b8; margin-right:20px; user-select:none;">[ uploaded image 1 ]</label>
+    <label for="media3" style="cursor:pointer; color:#94a3b8; user-select:none;">[ uploaded image 2 ]</label>
+  </div>
+
+  <div class="carousel-panes" style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
+    <div id="pane1" style="display:none;">
+      <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank">
+        <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="max-width:100%; border-radius:2px;">
+      </a>
+    </div>
+
+    <div id="pane2" style="display:none;">
+      <img src="images/your-image-1.png" alt="Uploaded Content 1" width="600" style="max-width:100%; border-radius:2px;">
+    </div>
+
+    <div id="pane3" style="display:none;">
+      <img src="images/your-image-2.png" alt="Uploaded Content 2" width="600" style="max-width:100%; border-radius:2px;">
+    </div>
+  </div>
+
+  <style>
+    #media1:checked ~ .carousel-panes #pane1 { display: block !important; }
+    #media2:checked ~ .carousel-panes #pane2 { display: block !important; }
+    #media3:checked ~ .carousel-panes #pane3 { display: block !important; }
+    #media1:checked ~ div label[for="media1"] { color: #fff !important; font-weight: bold; }
+    #media2:checked ~ div label[for="media2"] { color: #fff !important; font-weight: bold; }
+    #media3:checked ~ div label[for="media3"] { color: #fff !important; font-weight: bold; }
+  </style>
 </div>
-</details>
+<!-- ==================== MEDIA CAROUSEL END ==================== -->
 
 <pre>
 LAB.FEED ● LIVE
@@ -99,8 +123,8 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-<a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-me%40coderrquitsreality.dev-00ff00?style=flat&logo=gmail&logoColor=black" alt="Email" height="30" style="margin-right: 5px;" /></a>
-<a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" /></a>
+<a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" height="30" width="40" style="margin-right: 5px; border-radius: 4px;" /></a>
+<a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
 <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
 
