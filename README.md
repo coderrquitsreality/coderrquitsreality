@@ -89,6 +89,7 @@ Personal: <code>me@coderrquitsreality.dev</code>
 </pre>
 
 I exist at these places too :3
+<br>
 ▰▰▰▰▰
 <p align="left">
   <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="svg/mail.svg" alt="Email" height="30" width="30" style="margin-right: 15px;" /></a>
