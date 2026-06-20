@@ -86,8 +86,11 @@ Contact & Socials
 Personal: <code>me@coderrquitsreality.dev</code>
 </pre>
 
+<p
 I exist at these places too :3
 ▰▰▰▰▰
+</p>
+  
 <p align="left">
 <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="35" style="margin-right: 10px; filter: invert(57%) sepia(81%) saturate(2304%) hue-rotate(83deg) brightness(115%) contrast(119%);" /></a>
 <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" style="margin-right: 5px;" /></a>
