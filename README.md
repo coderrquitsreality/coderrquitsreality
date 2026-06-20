@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/coderrquitsreality-pfp.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
-</p>
-
 // hobbyist
 - I’m currently working on **a better VRChat camera system**
 - I'm probably a furry. **I am most definitely a furry.**
@@ -18,9 +14,10 @@
   <br><br>
   
   <div style="display:flex; gap: 10px;">
-    <img src="images/fullbodygremlin.png" alt="Gremlin" width="200" />
-    <img src="images/gayfurrycoderr.png" alt="Gay Furry" width="200" />
-    <img src="images/coderrrusksketch.png" alt="Rusk Sketch" width="200" />
+    <img src="images/coderrquitsreality-pfp.jpg" width="200"" />
+    <img src="images/fullbodygremlin.png" width="200" />
+    <img src="images/gayfurrycoderr.png" width="200" />
+    <img src="images/coderrrusksketch.png" width="200" />
   </div>
 </div>
 <pre>
