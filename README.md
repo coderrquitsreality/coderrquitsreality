@@ -1,10 +1,3 @@
-To match the exact dimensions, alignment, and inline presentation layout of the profile generator's predefined social assets without causing line breaks or size distortions, we can use the exact raw Font Awesome SVG path embedded within a standard `svg` tag.
-
-By applying an inline CSS layout directly to the SVG element, we can color-match it precisely to your site's target red hex code (`#ea4335`) and set the bounding frame sizes to perfectly mirror your Twitter and YouTube icons.
-
-### `README.md`
-
-```markdown
 // hobbyist
 - I’m currently working on **a better VRChat camera system**
 - I'm probably a furry. **I am most definitely a furry.**
@@ -110,5 +103,3 @@ I exist at these places too :3
 <pre>
 [ EOF ]
 </pre>
-
-```
