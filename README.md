@@ -9,13 +9,6 @@
   <input type="radio" id="media2" name="media-carousel" style="display:none;">
   <input type="radio" id="media3" name="media-carousel" style="display:none;">
 
-  <!-- Styled to copy your site navigation links -->
-  <div style="margin-bottom: 15px; font-family: monospace; font-size: 13px; letter-spacing: 1px;">
-    <label for="media1" style="cursor:pointer; color:#a855f7; margin-right:20px; user-select:none;">[ youtube video ]</label>
-    <label for="media2" style="cursor:pointer; color:#94a3b8; margin-right:20px; user-select:none;">[ uploaded image 1 ]</label>
-    <label for="media3" style="cursor:pointer; color:#94a3b8; user-select:none;">[ uploaded image 2 ]</label>
-  </div>
-
   <div class="carousel-panes" style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
     <div id="pane1" style="display:none;">
       <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank">
