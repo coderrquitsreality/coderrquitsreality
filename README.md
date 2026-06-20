@@ -3,7 +3,7 @@ I'm probably a furry. **I am most definitely a furry.**
 I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
 <details>
-<summary><strong>+ Gay femboy furries</strong></summary>
+<summary><strong> Gay femboy furries</strong></summary>
 <br>
 <div style="display:flex; gap: 10px;">
   <img src="images/coderrquitsreality-pfp.jpg" width="200" />
@@ -14,7 +14,7 @@ I really like VR stuff. **I spent literally thousands, and I still don't have en
 </details>
 
 <details>
-<summary><strong>+ My Setup</strong></summary>
+<summary><strong> My Setup</strong></summary>
 <pre>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
