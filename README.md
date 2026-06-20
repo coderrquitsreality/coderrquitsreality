@@ -14,7 +14,6 @@ Case: Lian Li A4-H2O
 └─ Board: ASRock B650I Lightning WiFi
 └─ Cooler: Thermalright Frozen Edge 240
 └─ OS: Windows 11 Enterprise
-▰
 
 geofeed.csv
 ▰▰▰▰▰
@@ -22,7 +21,6 @@ geofeed.csv
 └─ Midnight: 12:00 AM
 [ state ] - Pennsylvania
 [ country ] - US
-▰
 
 VR Setup
 ▰▰▰▰▰
@@ -31,7 +29,6 @@ HMD: Bigscreen Beyond 2e
 └─ Gloves: StretchSense XR
 └─ Tracking: [ Lighthouse: 2 ] [ Tracker: 12 HTC Vive 3.0 ]
    └─ [ FBT: 8 ] [ Glove: 2 ] [ Camera: 1 ]
-▰
 
 Network
 ▰▰▰▰▰
@@ -45,7 +42,6 @@ Network
 [ 2a14:7583:6969::/48 ] - coderrquitsreality-dev
 └─ descr: coderrquitsreality via zylinktech.net
 └─ remarks: I had to change this so people don't think I'm a gay femboy furry
-▰
 
 Network Infrastructure
 ▰▰▰▰▰
@@ -77,14 +73,12 @@ Router: VM
 └─ RAM: 8GB DDR4
 └─ Disk: 32GB
 └─ OS: OPNsense
-▰
 
 Contact & Socials
 ▰▰▰▰▰
 Personal: <code>me@coderrquitsreality.dev</code>
 Corporate: <code>support@zylinktech.net</code>
 Store: https://www.jawa.gg/sp/188417/zylinktech
-▰
 </pre>
 
 <p align="left">
