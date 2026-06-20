@@ -94,9 +94,9 @@ Personal: <code>me@coderrquitsreality.dev</code>
 I exist at these places too :3
 ▰▰▰▰▰
 <p align="left">
-  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img align="center" src="https://cdn.simpleicons.org/maildotru/white" alt="Email" height="36" width="36" style="margin-right: 8px; background: #1f2937; padding: 6px; border-radius: 6px;" /></a>
-  <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="Twitter" height="36" width="36" style="margin-right: 8px; background: #1f2937; padding: 6px; border-radius: 6px;" /></a>
-  <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://cdn.simpleicons.org/youtube/white" alt="YouTube" height="36" width="36" style="background: #1f2937; padding: 6px; border-radius: 6px;" /></a>
+  <a href="mailto:me@coderrquitsreality.dev" target="_blank"><img src="https://img.shields.io/badge/-%20-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" style="margin-right: 5px;" /></a>
+  <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img src="https://img.shields.io/badge/-%20-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35" style="margin-right: 5px;" /></a>
+  <a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img src="https://img.shields.io/badge/-%20-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35" /></a>
 </p>
 
 <pre>
