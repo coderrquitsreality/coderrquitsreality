@@ -18,8 +18,8 @@
 
   <div class="carousel-panes" style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
     <div id="pane1" style="display:none;">
-      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="max-width:100%; border-radius:2px;">
+      <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank">
+        <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="max-width:100%; border-radius:2px;">
       </a>
     </div>
 
@@ -119,13 +119,11 @@ Router: VM
 Contact & Socials
 ▰▰▰▰▰
 Personal: <code>me@coderrquitsreality.dev</code>
-Corporate: <code>support@zylinktech.net</code>
-Store: https://www.jawa.gg/sp/188417/zylinktech
 </pre>
 
 <p align="left">
 <a href="https://twitter.com/@coderrquitsrlty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@coderrquitsrlty" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coderrquitsreality" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/coderrquitsreality_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderrquitsreality" height="30" width="40" /></a>
 </p>
 
 <pre>
