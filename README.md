@@ -3,25 +3,28 @@
 - I'm probably a furry. **I am most definitely a furry.**
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
 
+<details>
+<summary><strong>▶ Gay femboy furries</strong></summary>
+<br>
 <div align="left">
-  <p>Here's some content to keep you content</p>
   <div style="background:#09090b; padding:12px; border: 1px solid #27272a; border-radius:4px; display:inline-block;">
     <a href="https://www.youtube.com/watch?v=-oX85ctVWcY" target="_blank" style="display: inline-block; background-image: url('images/your-preview-loop.gif'); background-size: cover; width: 600px; height: 337px; border-radius: 2px; overflow: hidden;">
       <img src="https://img.youtube.com/vi/-oX85ctVWcY/maxresdefault.jpg" alt="Watch on YouTube" width="600" style="display: block; border-radius:2px; transition: opacity 0.15s ease-in-out;" onmouseover="this.style.opacity=0;" onmouseout="this.style.opacity=1;">
     </a>
   </div>
-  
   <br><br>
-  
   <div style="display:flex; gap: 10px;">
-    <img src="images/coderrquitsreality-pfp.jpg" width="200"" />
+    <img src="images/coderrquitsreality-pfp.jpg" width="200" />
     <img src="images/fullbodygremlin.png" width="200" />
     <img src="images/gayfurrycoderr.png" width="200" />
     <img src="images/coderrrusksketch.png" width="200" />
   </div>
 </div>
+</details>
+
+<details>
+<summary><strong>▶ My Setup/strong></summary>
 <pre>
-LAB.FEED ● LIVE
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 The System
@@ -97,7 +100,9 @@ Contact & Socials
 ▰▰▰▰▰
 Personal: <code>me@coderrquitsreality.dev</code>
 </pre>
+</details>
 
+<br>
 I exist at these places too :3
 <br>
 ▰▰▰▰▰
