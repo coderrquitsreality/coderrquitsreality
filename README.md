@@ -1,7 +1,23 @@
+<p align="center">
+  <img src="images/coderrquitsreality-pfp.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+</p>
+
 // hobbyist
 - I’m currently working on **a better VRChat camera system**
 - I'm probably a furry. **I am most definitely a furry.**
 - I really like VR stuff. **I spent literally thousands, and I still don't have enough.**
+
+<p align="center">
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality">Code</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/issues">Issues</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/pulls">Pull requests</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/actions">Actions</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/projects">Projects</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/wiki">Wiki</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/security">Security</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/pulse">Insights</a> • 
+  <a href="https://github.com/coderrquitsreality/coderrquitsreality/settings">Settings</a>
+</p>
 
 <div align="left">
   <p>Here's some content to keep you content</p>
